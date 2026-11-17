@@ -1,0 +1,15 @@
+model,limit,RPM limit,TPM limit,peak RPM,peak total TPM,peak output TPM,verdict
+GPT-6.1 Terra,Build tier (entry paid tier),5000.0,1000000.0,371,1764124,142166,EXCEEDED (TPM)
+GPT-6 Luna,Build tier (entry paid tier),5000.0,2000000.0,371,1764124,142166,OK
+Claude Haiku 5.5,Start tier; 2M ITPM (uncached only) + 400k OTPM,1000.0,2000000.0,371,2282818,660860,EXCEEDED (OTPM)
+Claude Sonnet 5.5,Start tier; 2M ITPM (uncached only) + 400k OTPM,1000.0,2000000.0,371,1852120,230162,OK
+Gemini 3.8 Flash,not published (shown only in AI Studio),,,371,1892962,271004,limits not published
+Gemini 3.5 Flash-Lite,not published (shown only in AI Studio),,,371,2157693,535735,limits not published
+Grok 4.7,"150 req/s = 9,000 RPM; 50M TPM (tier not named)",9000.0,50000000.0,371,2011404,389446,OK
+DeepSeek V4.1 Flash 1017,"no RPM/TPM; 2,500 concurrent requests",,,371,1764124,142166,limits not published
+Qwen3.8 27B,not published,,,371,1764124,142166,limits not published
+Gemma 4 31B,not published,,,371,1764124,142166,limits not published
+Mistral Small 4,not published per model,,,371,1764124,142166,limits not published
+gpt-oss-120b,not published,,,371,1779718,157760,limits not published
+Mistral Medium 3.5,not published per model,,,371,1764124,142166,limits not published
+Ministral 3 14B,not published per model,,,371,1764124,142166,limits not published

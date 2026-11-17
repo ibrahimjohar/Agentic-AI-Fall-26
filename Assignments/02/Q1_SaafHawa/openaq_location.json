@@ -1,0 +1,12 @@
+{
+  "id": 3213801,
+  "name": "Soomra Society, Scheme 33, Karachi",
+  "sensors": {
+    "11157384": "pm1",
+    "11157401": "pm10",
+    "11157382": "pm25",
+    "11157400": "relativehumidity",
+    "11157387": "temperature",
+    "11157385": "um003"
+  }
+}

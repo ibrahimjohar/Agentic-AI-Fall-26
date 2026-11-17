@@ -1,0 +1,15 @@
+model,kind,p_in,p_out,p_cache,reason tok/call,cache?,cache writes (tok),no cache $,with cache $,within B (no cache),within B (cache)
+GPT-6.1 Terra,closed,1.0,5.0,0.05,0,yes,2160000.0,8637.975,6681.42,False,False
+GPT-6 Luna,closed,0.1,0.5,0.01,0,yes,2160000.0,863.7975,678.4425000000001,True,True
+Claude Haiku 5.5,closed,0.1,0.5,0.01,1397,yes,12960000.0,1824.12324,1640.01024,True,True
+Claude Sonnet 5.5,closed,2.0,10.0,0.1,237,yes,12960000.0,20534.3208,16647.1308,False,False
+Gemini 3.8 Flash,closed,0.75,3.75,0.075,347,no,0.0,8267.4918,8267.4918,False,False
+Gemini 3.5 Flash-Lite,closed,0.3,2.5,0.03,1060,no,0.0,6761.1375,6761.1375,False,False
+Grok 4.7,closed,2.0,6.0,0.5,666,yes,0.0,20664.13464,17570.74464,False,False
+DeepSeek V4.1 Flash 1017,open,0.3,1.2,0.006,0,yes,0.0,2433.4668,1827.16236,False,True
+Qwen3.8 27B,open,0.425,2.55,0.085,0,yes,0.0,3894.8674499999997,3193.69905,False,False
+Gemma 4 31B,open,0.09,0.34,,0,no,0.0,719.51166,719.51166,True,True
+Mistral Small 4,open,0.15,0.6,0.015,0,yes,0.0,1216.7334,938.3283,True,True
+gpt-oss-120b,open,0.039,0.158,,42,no,0.0,326.52696024,326.52696024,True,True
+Mistral Medium 3.5,open,1.5,7.5,0.15,0,yes,0.0,12956.9625,10172.9115,False,False
+Ministral 3 14B,open,0.2,0.2,,0,no,0.0,1306.4597999999999,1306.4597999999999,True,True

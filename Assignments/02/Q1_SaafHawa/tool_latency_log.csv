@@ -1,0 +1,97 @@
+day,round,tool,latency_ms,status,note
+Day 1,1,air_quality_openaq,854.036,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,1,weather_openmeteo,526.805,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,1,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,1,kb_lookup_local,0.092,200,top=aq-04 (mean of 200)
+Day 1,2,air_quality_openaq,759.865,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,2,weather_openmeteo,482.470,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,2,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,2,kb_lookup_local,0.075,200,top=coast-01 (mean of 200)
+Day 1,3,air_quality_openaq,751.197,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,3,weather_openmeteo,567.718,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,3,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,3,kb_lookup_local,0.072,200,top=aq-03 (mean of 200)
+Day 1,4,air_quality_openaq,928.257,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,4,weather_openmeteo,560.319,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,4,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,4,kb_lookup_local,0.072,200,top=heat-06 (mean of 200)
+Day 1,5,air_quality_openaq,750.379,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,5,weather_openmeteo,492.880,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,5,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,5,kb_lookup_local,0.078,200,top=heat-04 (mean of 200)
+Day 1,6,air_quality_openaq,756.896,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,6,weather_openmeteo,522.008,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,6,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,6,kb_lookup_local,0.072,200,top=aq-05 (mean of 200)
+Day 1,7,air_quality_openaq,811.779,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,7,weather_openmeteo,562.197,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,7,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,7,kb_lookup_local,0.087,200,top=aq-04 (mean of 200)
+Day 1,8,air_quality_openaq,825.453,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,8,weather_openmeteo,565.368,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,8,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,8,kb_lookup_local,0.083,200,top=coast-01 (mean of 200)
+Day 1,9,air_quality_openaq,782.180,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,9,weather_openmeteo,529.502,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,9,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,9,kb_lookup_local,0.066,200,top=aq-03 (mean of 200)
+Day 1,10,air_quality_openaq,858.722,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,10,weather_openmeteo,524.194,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,10,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,10,kb_lookup_local,0.069,200,top=heat-06 (mean of 200)
+Day 1,11,air_quality_openaq,990.477,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,11,weather_openmeteo,953.361,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,11,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,11,kb_lookup_local,0.095,200,top=heat-04 (mean of 200)
+Day 1,12,air_quality_openaq,768.029,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 1,12,weather_openmeteo,532.483,200,T=25.7C RH=80% wind=9.5km/h
+Day 1,12,heat_index_local,0.000,200,HI=26.4C (mean of 1000)
+Day 1,12,kb_lookup_local,0.070,200,top=aq-05 (mean of 200)
+Day 2,1,air_quality_openaq,1183.622900,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,1,weather_openmeteo,500.897100,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,1,heat_index_local,0.000290,200,HI=22.0C (mean of 1000)
+Day 2,1,kb_lookup_local,0.092716,200,top=aq-04 (mean of 200)
+Day 2,2,air_quality_openaq,766.787600,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,2,weather_openmeteo,498.970300,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,2,heat_index_local,0.000240,200,HI=22.0C (mean of 1000)
+Day 2,2,kb_lookup_local,0.071870,200,top=coast-01 (mean of 200)
+Day 2,3,air_quality_openaq,772.409400,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,3,weather_openmeteo,496.860700,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,3,heat_index_local,0.000234,200,HI=22.0C (mean of 1000)
+Day 2,3,kb_lookup_local,0.070220,200,top=aq-03 (mean of 200)
+Day 2,4,air_quality_openaq,883.937200,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,4,weather_openmeteo,485.905400,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,4,heat_index_local,0.000288,200,HI=22.0C (mean of 1000)
+Day 2,4,kb_lookup_local,0.069331,200,top=heat-06 (mean of 200)
+Day 2,5,air_quality_openaq,947.580800,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,5,weather_openmeteo,532.994500,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,5,heat_index_local,0.000240,200,HI=22.0C (mean of 1000)
+Day 2,5,kb_lookup_local,0.073260,200,top=heat-04 (mean of 200)
+Day 2,6,air_quality_openaq,754.318800,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,6,weather_openmeteo,488.538200,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,6,heat_index_local,0.000325,200,HI=22.0C (mean of 1000)
+Day 2,6,kb_lookup_local,0.073183,200,top=aq-05 (mean of 200)
+Day 2,7,air_quality_openaq,817.020100,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,7,weather_openmeteo,504.606900,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,7,heat_index_local,0.000785,200,HI=22.0C (mean of 1000)
+Day 2,7,kb_lookup_local,0.103675,200,top=aq-04 (mean of 200)
+Day 2,8,air_quality_openaq,789.928700,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,8,weather_openmeteo,532.612300,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,8,heat_index_local,0.000270,200,HI=22.0C (mean of 1000)
+Day 2,8,kb_lookup_local,0.070901,200,top=coast-01 (mean of 200)
+Day 2,9,air_quality_openaq,739.813900,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,9,weather_openmeteo,537.264500,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,9,heat_index_local,0.000231,200,HI=22.0C (mean of 1000)
+Day 2,9,kb_lookup_local,0.069347,200,top=aq-03 (mean of 200)
+Day 2,10,air_quality_openaq,828.012900,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,10,weather_openmeteo,501.659200,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,10,heat_index_local,0.000450,200,HI=22.0C (mean of 1000)
+Day 2,10,kb_lookup_local,0.071470,200,top=heat-06 (mean of 200)
+Day 2,11,air_quality_openaq,963.033200,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,11,weather_openmeteo,494.433300,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,11,heat_index_local,0.000391,200,HI=22.0C (mean of 1000)
+Day 2,11,kb_lookup_local,0.071620,200,top=heat-04 (mean of 200)
+Day 2,12,air_quality_openaq,751.634500,200,pm25=31.045834223429363 pm10=35.97500038146973
+Day 2,12,weather_openmeteo,494.462600,200,T=22.4C RH=51% wind=7.5km/h
+Day 2,12,heat_index_local,0.000227,200,HI=22.0C (mean of 1000)
+Day 2,12,kb_lookup_local,0.069714,200,top=aq-05 (mean of 200)
